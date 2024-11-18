@@ -4,4 +4,4 @@ Welcome to Legate Community Discussions, where users can discuss Legate and rela
 
 * [Announcements](https://github.com/nv-legate/discussion/discussions/categories/announcements) from maintainers
 * [Legate Core](https://github.com/nv-legate/discussion/discussions/categories/legate) for questions specific to [Legate](https://docs.nvidia.com/legate/latest/)
-* [Cunumeric](https://github.com/nv-legate/discussion/discussions/categories/cunumeric) for questions specific to [Cunumeric](https://docs.nvidia.com/cunumeric/latest/)
+* [cuPynumeric](https://github.com/nv-legate/discussion/discussions/categories/cupynumeric) for questions specific to [cuPynumeric](https://docs.nvidia.com/cupynumeric/latest/)
